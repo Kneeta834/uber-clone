@@ -1,4 +1,4 @@
-# Uber Clone (uber-clone)
+# Uber Clone (uber-clone
 
 ### Tutorial series on how to build this
 
